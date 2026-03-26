@@ -19,10 +19,10 @@
 ---
 
 ### 👨‍💻 About Me
+Passionate Fullstack Developer with experience building scalable web applications and educational platforms. Skilled in Python, JavaScript, and modern frameworks, with a good foundation in backend systems and responsive UI/UX. Thrives in collaborative environments and committed to continuous learning.
+
 - 🔭 I’m currently working on cross-platform mobile apps with **React Native** and **Expo**.
 - 🌱 I’m currently strengthening my skills in **Go** and **Java**.
-- 👯 I’m looking to collaborate on Open Source projects that involve Python or Backend development.
-- 💬 Ask me about **Python, C++, Go, JavaScript, and Java**.
 - 📫 How to reach me: [Kalexkalab@gmail.com](mailto:Kalexkalab@gmail.com)
 
 ---
@@ -60,11 +60,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Respectus11&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Respectus11&layout=compact&theme=radical&hide_border=true" alt="Langs" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Respectus11&theme=radical&hide_border=true" alt="Streak Stats" />
-</p>
-
 ---
 
 ### 📂 Top Repositories
@@ -96,7 +91,4 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Respectus11&theme=radical&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
+
