@@ -1,0 +1,29 @@
+name: github-profile-game-of-life
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # run once per day at midnight UTC
+  workflow_dispatch:       # allow manual runs
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # allow pushing to repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Game of Life SVG
+        uses: robiningelbrecht/github-profile-game-of-life@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user: ${{ github.repository_owner }}
+          output_branch: output
+          output_path: game-of-life.svg
