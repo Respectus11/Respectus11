@@ -62,12 +62,6 @@ Passionate Fullstack Developer with experience building scalable web application
 </p>
 ---
 
-### 📂 Top Repositories
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Respectus11&repo=Respectus11&theme=radical&hide_border=true" alt="Repo 1" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Respectus11&repo=[Your_Next_Best_Repo]&theme=radical&hide_border=true" alt="Repo 2" />
-</p>
-
 ---
 
 ### 🎮 Contribution Games
@@ -77,9 +71,6 @@ Passionate Fullstack Developer with experience building scalable web application
   <img src="https://raw.githubusercontent.com/Respectus11/Respectus11/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-#### 🧬 Conway's Game of Life
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Respectus11/Respectus11/output/game-of-life.svg" alt="Game of Life" />
 </p>
 
 ---
@@ -91,4 +82,7 @@ Passionate Fullstack Developer with experience building scalable web application
 
 ---
 
-
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Respectus11&theme=radical&no-bg=true&margin-w=4" alt="Trophies" />
+</p>
