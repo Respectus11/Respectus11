@@ -21,8 +21,8 @@
 ### 👨‍💻 About Me
 Passionate Fullstack Developer with experience building scalable web applications and educational platforms. Skilled in Python, JavaScript, and modern frameworks, with a good foundation in backend systems and responsive UI/UX. Thrives in collaborative environments and committed to continuous learning.
 
-- 🔭 I’m currently working on cross-platform mobile apps with **React Native** and **Expo**.
-- 🌱 I’m currently strengthening my skills in **Go** and **Java**.
+- 🔭 I'm currently working on cross-platform mobile apps with **React Native** and **Expo**.
+- 🌱 I'm currently strengthening my skills in **Go** and **Java**.
 - 📫 How to reach me: [Kalexkalab@gmail.com](mailto:Kalexkalab@gmail.com)
 
 ---
@@ -60,7 +60,6 @@ Passionate Fullstack Developer with experience building scalable web application
   <img src="https://github-readme-stats.vercel.app/api?username=Respectus11&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Respectus11&layout=compact&theme=radical&hide_border=true" alt="Langs" />
 </p>
----
 
 ---
 
@@ -69,8 +68,6 @@ Passionate Fullstack Developer with experience building scalable web application
 #### 🐍 Snake Game
 <p align="center">
   <img src="https://raw.githubusercontent.com/Respectus11/Respectus11/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 </p>
 
 ---
@@ -85,4 +82,19 @@ Passionate Fullstack Developer with experience building scalable web application
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Respectus11&theme=radical&no-bg=true&margin-w=4" alt="Trophies" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+<p align="center">
+  <a href="https://et.linkedin.com/in/kalabbilhatu">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:Kalexkalab@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Respectus11">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
