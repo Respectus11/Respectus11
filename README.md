@@ -1,100 +1,46 @@
-# 👋 Hi, I'm Kalab Bilhatu
+# Kalab Bilhatu
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Trust+the+process;Great+things+take+time" alt="Typing SVG" />
-</p>
+Full-stack developer building web applications, mobile experiences, and practical software projects. I work primarily with JavaScript/TypeScript and modern React-based tools, and I’m developing further experience with AI/RAG applications and data extraction workflows.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Software%20Developer-blue?style=for-the-badge&logo=github" alt="Role" />
-  <img src="https://img.shields.io/badge/Email-Kalexkalab%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  <a href="https://et.linkedin.com/in/kalabbilhatu">
-    <img src="https://img.shields.io/badge/LinkedIn-Kalab%20Bilhatu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+- **Focus:** Full-stack development, mobile apps, AI-enabled applications, and web data extraction
+- **Currently building:** Cross-platform learning experiences and interactive applications
+- **Contact:** [Kalexkalab@gmail.com](mailto:Kalexkalab@gmail.com)
+- **LinkedIn:** [Kalab Bilhatu](https://et.linkedin.com/in/kalabbilhatu)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Respectus11&color=blue&style=flat-square&label=VISITOR+COUNT" alt="Visitor Count" />
-</p>
+## Selected projects
 
----
+### [Sciora](https://github.com/Respectus11/Sciora)
+A Grade 8 science learning app for Ethiopian students, featuring interactive simulations and curriculum-based lessons.
+**Stack:** React Native, Expo, TypeScript, SQLite, SVG
 
-### 👨‍💻 About Me
-Passionate Fullstack Developer with experience building scalable web applications and educational platforms. Skilled in Python, JavaScript, and modern frameworks, with a good foundation in backend systems and responsive UI/UX. Thrives in collaborative environments and committed to continuous learning.
+### [ET Mini Militia](https://github.com/Respectus11/ET_Mini_milita)
+An original 2D jetpack shooter prototype with custom movement and collision systems, bot opponents, and local-network multiplayer.
+**Stack:** Cocos Creator, TypeScript, Node.js
 
-- 🔭 I'm currently working on cross-platform mobile apps with **React Native** and **Expo**.
-- 🌱 I'm currently strengthening my skills in **Go** and **Java**.
-- 📫 How to reach me: [Kalexkalab@gmail.com](mailto:Kalexkalab@gmail.com)
+### [Dama](https://github.com/Respectus11/Dama)
+A TypeScript workspace for a digital Dama board game. Current work focuses on the shared types and application scaffolding.
+**Stack:** React, Node.js, Express, TypeScript, Socket.IO, MongoDB
 
----
+## Technologies
 
-### 🛠️ Tech Stack
+**Languages:** JavaScript, TypeScript, Python, Java, C++
 
-#### 🚀 Languages & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-</p>
+**Frontend & mobile:** React, React Native, Expo, HTML, CSS
 
-#### 🧰 Tools & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=google-cloud&logoColor=white" alt="REST APIs" />
-</p>
+**Backend & data:** Node.js, Express, MongoDB, SQLite, REST APIs
 
----
+**AI & data workflows:** Retrieval-augmented generation (RAG), language-model integration, web scraping, data extraction
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Respectus11&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Respectus11&layout=compact&theme=radical&hide_border=true" alt="Langs" />
-</p>
+**Tools:** Git, GitHub, Postman, Figma
 
----
+## What I value
 
-### 🎮 Contribution Games
+- Building software around a clear user problem
+- Keeping projects readable, maintainable, and easy to run
+- Learning through implementation, testing, and iteration
 
-#### 🐍 Snake Game
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Respectus11/Respectus11/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+## Connect
 
----
-
-### 📊 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Respectus11&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Respectus11&theme=radical&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
-
----
-
-### 🤝 Let's Connect
-<p align="center">
-  <a href="https://et.linkedin.com/in/kalabbilhatu">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:Kalexkalab@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/Respectus11">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+- Email: [Kalexkalab@gmail.com](mailto:Kalexkalab@gmail.com)
+- LinkedIn: [linkedin.com/in/kalabbilhatu](https://et.linkedin.com/in/kalabbilhatu)
+- GitHub: [@Respectus11](https://github.com/Respectus11)
